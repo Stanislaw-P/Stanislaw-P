@@ -44,6 +44,7 @@
 ### 📌 Избранные проекты
 
 - [**Онлайн портал игр**](https://github.com/Stanislaw-P/LingvoGameOs.git) — Портал образовательных игр на осетинском языке (стек: ASP.NET Core, EF Core, PostgreSQL, WebApi, S3 Storage)
+- [**NotificationSystem**](https://github.com/Stanislaw-P/NotificationSystem.git) — Система уведомлений на очередях сообщений: два микросервиса общаются через RabbitMQ, email-уведомления с Dead Letter Queue и логированием в PostgreSQL (стек: ASP.NET Core, Worker Service, RabbitMQ, PostgreSQL, MailKit, Docker)
 - [**Галерея изображений**](https://github.com/Stanislaw-P/ImageGalleryApp.git) — Web-приложение для загрузки и просмотра изображений (стек: ASP.NET Core, EF Core, HTML, JS, CSS, PostgreSQL, UnitTest, Docker)
 - [**ИС гостиничного комплекса**](https://github.com/Stanislaw-P/Hotel-Complex.git) — Веб-сайт гостиницы, а также система управления гостиничным комплексом (стек: ASP.NET Core MVC, MySQL, ADO.NET, SQL) Данный проект все еще в разработке
 - [**Парсер тендеров**](https://github.com/Stanislaw-P/Tender-parsing.git) — Веб-сайт для парсинга тендеров с ЭТП (стек: ASP.NET Core, HttpClient, HTML, JS, CSS, Docker)
